@@ -1,0 +1,9 @@
+# ImmunoAI — Python AI Service Dependencies
+# Install with: pip install -r requirements.txt
+
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.0.0
+
+# Optional: Ultra-fast YOLOv8 human detector & bounding box generator
+ultralytics>=8.0.0
